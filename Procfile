@@ -1,0 +1,1 @@
+web: gunicorn app_pertama.wsgi --log-file -

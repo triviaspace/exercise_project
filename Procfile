@@ -1,1 +1,1 @@
-web: gunicorn app_pertama.wsgi --log-file -
+web: gunicorn pertama.wsgi --log-file -
